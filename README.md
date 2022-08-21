@@ -6,4 +6,6 @@
 
 - [第3章 字符串、向量和数组](https://github.com/liuweijie19980216/cxxPrimer/blob/master/chap3/README.md)
 
+- [第4章 表达式]((https://github.com/liuweijie19980216/cxxPrimer/blob/master/chap4/README.md))
+
   
